@@ -1,5 +1,7 @@
 # BILLPLZ APOLLO GRAPHQL SERVER
 
+## Combined V3 + V4 Billplz REST Api
+
 ## Running the server
 
 ### 1. Install NodeJS
@@ -64,3 +66,5 @@ mutation {
   }
 }
 ```
+
+Billplz Apollo is [MIT - licensed](LICENSE).
