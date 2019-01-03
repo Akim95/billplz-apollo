@@ -1,6 +1,6 @@
 # BILLPLZ APOLLO GRAPHQL SERVER
 
-## Combined V3 + V4 Billplz REST Api
+### Combined V3 + V4 Billplz REST Api
 
 ## Running the server
 
