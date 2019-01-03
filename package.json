@@ -1,0 +1,22 @@
+{
+  "name": "billplz-apollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index",
+    "prettier": "prettier --trailing-comma es5 --parser typescript --write 'src/**/*.ts'"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.2.1",
+    "apollo-server": "^2.3.1",
+    "graphql": "^14.0.2"
+  },
+  "devDependencies": {
+    "@types/graphql": "^14.0.4",
+    "dotenv": "^6.2.0",
+    "prettier": "1.15.3"
+  }
+}
